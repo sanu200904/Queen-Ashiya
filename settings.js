@@ -39,29 +39,29 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika']
+global.owner = ['𝙀.𝘿.𝙎.𝙈𝙤𝙨𝙝𝙞𝙩𝙝𝙖💘']
 
-global.premium = ['💗Queen Ashiya🧚']
+global.premium = ['💗☯Dαɾƙ ꪜ𝔖𝔞𝔫𝔲 ʷᵃBOT🧚']
 
-global.ownernomer = '94741671668'
+global.ownernomer = '94774309804'
 
-global.ownername = 'Didula Rashmika'
+global.ownername = '𝙀.𝘿.𝙎.𝙈𝙤𝙨𝙝𝙞𝙩𝙝𝙖💘'
 
-global.botname = '💗Queen Ashiya🧚'
+global.botname = '💗☯Dαɾƙ ꪜ𝔖𝔞𝔫𝔲 ʷᵃBOT🧚'
 
-global.footer = '©💗Queen Ashiya🧚.'
+global.footer = '©💗☯Dαɾƙ ꪜ𝔖𝔞𝔫𝔲 ʷᵃBOT🧚.'
 
-global.ig = 'https://github.com/BlackPant'
+global.ig = 'https://youtube.com/channel/UCtKT-h1UkEJ5sDJ3Std270g'
 
-global.region = 'Sri Lanka, North Central Peovince, Anuradhapura'
+global.region = 'Sri Lanka, Southern Province , hambantota'
 
-global.sc = 'https://github.com/BlackPanther-svg/Queen-Ashiya'
+global.sc = 'https://chat.whatsapp.com/BhHvH6Dl2Yg1WPU0F5etKr'
 
-global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
+global.myweb = 'https://youtube.com/channel/UCtKT-h1UkEJ5sDJ3Std270g'
 
-global.packname = '💗Queen Ashiya🧚'
+global.packname = '💗☯Dαɾƙ ꪜ𝔖𝔞𝔫𝔲 ʷᵃBOT🧚'
 
-global.author = '💗Queen Ashiya🧚'
+global.author = '💗☯Dαɾƙ ꪜ𝔖𝔞𝔫𝔲 ʷᵃBOT🧚'
 
 global.sessionName = 'session'
 
